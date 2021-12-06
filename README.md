@@ -1,0 +1,6 @@
+- 👋 Olá, meu nome é Kauã Moreira;
+- 👀 Gosto de Programação, Robótica e Eletrônica;
+- 🌱 Últimamente estou aprendendo Python, HTML e CSS, JavaScript;
+- ❤️ Estudo na Escola Técnica em Eletrônica Francisco Moreira da Costa;
+- 💞️ Ajudo pessoas comproblemas em projetos com Arduino, C++ e Eletrônica;
+- 📫 Você pode me encontrar no email: zkauambbr@gmail.com.
